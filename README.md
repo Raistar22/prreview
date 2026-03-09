@@ -1,11 +1,14 @@
 # PR Review Bot 🤖
 
+[![PR Review Bot Banner](banner.png)](https://github.com/your-username/prreview)
+
 AI-powered GitHub Pull Request code reviewer that automatically reviews diffs, detects bugs, security issues, and best-practice violations, and posts inline comments directly on your PRs.
 
-![Python 3.11](https://img.shields.io/badge/python-3.11-blue)
-![FastAPI](https://img.shields.io/badge/framework-FastAPI-009688)
-![CPU Only](https://img.shields.io/badge/GPU-not%20required-green)
-![Docker](https://img.shields.io/badge/deploy-Docker-2496ED)
+![Python 3.11](https://img.shields.io/badge/python-3.11-blue?style=for-the-badge&logo=python)
+![FastAPI](https://img.shields.io/badge/framework-FastAPI-009688?style=for-the-badge&logo=fastapi)
+![CPU Only](https://img.shields.io/badge/GPU-not%20required-green?style=for-the-badge)
+![Docker](https://img.shields.io/badge/deploy-Docker-2496ED?style=for-the-badge&logo=docker)
+![License](https://img.shields.io/badge/license-MIT-yellow?style=for-the-badge)
 
 ---
 
@@ -291,3 +294,15 @@ The review engine is pluggable. To use a different model:
 ## License
 
 MIT
+
+---
+
+## 📸 Social Preview
+
+To make this repository look great on LinkedIn, Twitter, and other platforms:
+
+1.  Go to your GitHub repository **Settings**.
+2.  Scroll down to the **Social preview** section.
+3.  Click **Edit** and upload the `banner.png` file from the root of this project.
+
+This will ensure that when you share the link, a beautiful interactive preview is displayed!
